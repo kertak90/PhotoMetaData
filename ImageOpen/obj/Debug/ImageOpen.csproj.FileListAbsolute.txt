@@ -1,0 +1,15 @@
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\bin\Debug\ImageOpen.exe.config
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\bin\Debug\ImageOpen.exe
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\bin\Debug\ImageOpen.pdb
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\obj\Debug\ImageOpen.Form1.resources
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\obj\Debug\ImageOpen.Properties.Resources.resources
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\obj\Debug\ImageOpen.csproj.GenerateResource.cache
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\obj\Debug\ImageOpen.csproj.CoreCompileInputs.cache
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\obj\Debug\ImageOpen.exe
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\obj\Debug\ImageOpen.pdb
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\bin\Debug\MetadataExtractor.dll
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\bin\Debug\XmpCore.dll
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\bin\Debug\MetadataExtractor.xml
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\bin\Debug\XmpCore.xml
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\obj\Debug\ImageOpen.csproj.CopyComplete
+D:\C# projects\ImageParameters\ImageOpen\ImageOpen\obj\Debug\ImageOpen.csprojAssemblyReference.cache
